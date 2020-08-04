@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # Documentation
 This repository holds a collection of additional documentation and images/screenshots/videos related to the agents-united platform. 
 
@@ -6,11 +8,7 @@ Images uploaded here can be referenced/embedded within the wiki pages/readme's o
 ```
 ![alt-text](https://github.com/AgentsUnited/documentation/blob/master/path-to-your-images/name-of-your-file.png?raw=true)
 ```
+<details><summary>An example of an included screenshot</summary>
 
-For example, here we include a screenshot of the git clone command of the demonstrator repository:
-![Screenshot: git clone of toplevel demonstrator repository](https://github.com/AgentsUnited/documentation/blob/master/screenshots/demonstrator/git_clone.png?raw=true)
-
-<details>
-	<summary>See screenshot</summary>
-	![Screenshot of the git clone command](https://github.com/AgentsUnited/documentation/blob/master/screenshots/demonstrator/git_clone.png?raw=true)
+![Screenshot of the git clone command](https://github.com/AgentsUnited/documentation/blob/master/screenshots/demonstrator/git_clone.png?raw=true)
 </details>
