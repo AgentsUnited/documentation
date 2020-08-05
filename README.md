@@ -8,5 +8,5 @@ Images uploaded here can be referenced/embedded within the wiki pages/readme's o
 ```
 <details><summary>An example of an included screenshot</summary>
 
-![Screenshot of the git clone command](https://github.com/AgentsUnited/documentation/blob/master/screenshots/demonstrator/git_clone.png?raw=true)
+![Screenshot of the git clone command](https://github.com/AgentsUnited/documentation/blob/master/demonstrator/git_clone.png?raw=true)
 </details>
